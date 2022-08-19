@@ -1,0 +1,24 @@
+{
+    "name": "cv-work",
+    "version": "1.0.0",
+    "description": "CV for Veronica Kolarska",
+    "main": "index.js",
+    "scripts": {
+        "lint": "markdownlint \"./**/*.md\" --ignore \"node_modules/**\"",
+        "gen-pdf": "npx markdown-pdf ./README.md"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:veronicakolarska/cv-work.git"
+    },
+    "author": "Veronica Kolarska",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/veronicakolarska/cv-work/issues"
+    },
+    "homepage": "https://github.com/veronicakolarska/cv-work#readme",
+    "dependencies": {
+        "markdownlint": "0.24.0",
+        "markdownlint-cli": "0.29.0"
+    }
+}
