@@ -8,7 +8,7 @@ GitHub: [@veronicakolarska](https://github.com/veronicakolarska)
 
 ## Summary
 
-TODO:
+An inspiring software engineer, passionate about building software applications in the .NET ecosystem. My next goal is to dive into the world of JavaScript!
 
 ## Work Experience
 
@@ -75,9 +75,9 @@ Teamwork, Communication, Decision Making, Time Management, Conflict Resolution, 
 ### **TimeHeroes** - **Event organizer, donations** - Sofia, Bulgaria
 
  - Took part in organizing charity events and outside leisure activities for various causes.
- - 
+ - Donating clothes, food and sanitary products to children, elderly and people in need.
 
 ### **Private School Dr. Petar Beron** - **Volunteer Lecturer** - Sofia, Bulgaria
 
  - Teaching fundamental concepts of Internet, Word and Excel to elementary students.
- - Mentoring a 4th grade student to participate in MON contest with a website. 
+ - Mentoring a 4th grade student to participate in MON contest with a website.
