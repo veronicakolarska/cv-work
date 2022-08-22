@@ -15,11 +15,12 @@ An inspiring software engineer, passionate about building software applications 
 ### **MentorMate** - **Software Engineer** - Sofia, Bulgaria - _February 2021 - Present_
 
 As a Software Engineer, my main responsibilities include:
- - Design, implement and test backend features in the .NET ecosystem.
+ - Design, implement and test backend features in the .NET ecosystem. I used frameworks like ASP.NET, Entity Framework and libraries like Dapper in my day-to-day work.
  - Proactively refine requirements with stakeholders and propose new solutions.
  - Mentoring trainees as part of DevCamp program.
- - Taking part in internal company trainings on various topics.
- - Taking an active part in Scrum ceremonies.
+ TODO: List trainings
+ - Taking part in internal company trainings on various topics like Customer satisfaction ...
+ - Taking an active part in Scrum ceremonies like refinements, plannings and retrospectives.
 
 ### **Sensata Technologies** - **Software Engineer** - Sofia, Bulgaria - _September 2019 - March 2020_
 
@@ -29,6 +30,8 @@ As a Junior Software Engineer, my main responsibilities include:
 - Taking part in company training in Agile methodologies like Kanban when first introduced in the company.
 
 ### **Telepoint Bulgaria** - **Network Operations Center Engineer** - Sofia, Bulgaria - _July 2017 - April 2018_
+
+During my work at Telepoint Bulgaria, my day-to-day tasks included:
  - Providing first line support on monitoring the data center's equipment, company and client networks.
  - Installing hardware components on Cisco, Juniper and MicroTik routers and multilayer switches and connecting fiber optics / Ethernet connections.
   - Consulting clients on hardware configuration and networking solutions.
@@ -36,17 +39,17 @@ As a Junior Software Engineer, my main responsibilities include:
 
 ## Education
 
-### **BSc Computer Science** - **New Bulgarian University** - Sofia, Bulgaria
-
-- A full four year bachelor program in Computer Science
-- The program covered Algorithms, Mathematics, Operation Systems and Networking.
-
-
-### **BSc Psychology** - **New Bulgarian University** - Sofia, Bulgaria - _October 2021 - Present_
+### **BSc Psychology** - **New Bulgarian University** - Sofia, Bulgaria 
+_October 2021 - Present_
 
 - An intense three year bachelor program in Psychology
 - The program is focused in research and conducting social experiments.
 
+### **BSc Computer Science** - **New Bulgarian University** - Sofia, Bulgaria
+_October 2014 - July 2018_
+
+- A full four year bachelor program in Computer Science
+- The program covered Algorithms, Mathematics, Operation Systems, Networking and other Computer science related topics.
 
 ## Skills
 
@@ -62,9 +65,13 @@ Object Oriented Programming and Design, Design Patterns, High Quality Code, Refa
 
 C#, ASP.NET Core, LINQ, Dapper, ADO.NET, Entity Framework Core, NugGet, xUnit, StyleCop.
 
+### Web Technologies
+
+HTML, CSS, JavaScript basics, RESTFull APIs, JSON.
+
 ### Dev Tools
 
-Atlassian tools (JIRA, Confluence), Git, GitLab, GitHub.
+Atlassian tools (JIRA, Confluence), Git, GitLab, GitHub, Postman, Visual Studio, Visual Studio Code.
 
 ### Soft Skills
 
