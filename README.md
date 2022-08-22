@@ -88,3 +88,9 @@ Teamwork, Communication, Decision Making, Time Management, Conflict Resolution, 
 
  - Teaching fundamental concepts of Internet, Word and Excel to elementary students.
  - Mentoring a 4th grade student to participate in MON contest with a website.
+
+## Personal Interests
+
+- Psychology
+- Travel, hiking
+- Music, swing dancing
