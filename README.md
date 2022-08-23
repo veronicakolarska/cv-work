@@ -18,8 +18,7 @@ As a Software Engineer, my main responsibilities include:
  - Design, implement and test backend features in the .NET ecosystem. I used frameworks like ASP.NET, Entity Framework and libraries like Dapper in my day-to-day work.
  - Proactively refine requirements with stakeholders and propose new solutions.
  - Mentoring trainees as part of DevCamp program.
- TODO: List trainings
- - Taking part in internal company trainings on various topics like Customer satisfaction ...
+ - Taking part in internal company trainings on various topics like Customer satisfaction and communication, Mentoring skills, Effective remote teamwork, etc.
  - Taking an active part in Scrum ceremonies like refinements, plannings and retrospectives.
 
 ### **Sensata Technologies** - **Software Engineer** - Sofia, Bulgaria - _September 2019 - March 2020_
